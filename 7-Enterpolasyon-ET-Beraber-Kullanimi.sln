@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Enterpolasyon-ET-Beraber-Kullanimi", "7-Enterpolasyon-ET-Beraber-Kullanimi\7-Enterpolasyon-ET-Beraber-Kullanimi.csproj", "{3BF7B02C-2F49-4732-A4AF-8F44CCF2A90E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF7B02C-2F49-4732-A4AF-8F44CCF2A90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF7B02C-2F49-4732-A4AF-8F44CCF2A90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF7B02C-2F49-4732-A4AF-8F44CCF2A90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF7B02C-2F49-4732-A4AF-8F44CCF2A90E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35B5F9C-E120-4E82-911C-C5A2E8D823C6}
+	EndGlobalSection
+EndGlobal
